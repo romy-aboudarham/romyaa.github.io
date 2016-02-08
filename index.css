@@ -5,6 +5,13 @@ body {
 h1 {
 	text-align: center
     color: white;
+    font-size: 40px;
+}
+
+h2 {
+	text-align: center
+    color: white;
+    font-size: 20px;
 }
 
 p {
