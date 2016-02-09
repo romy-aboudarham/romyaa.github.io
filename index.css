@@ -9,6 +9,13 @@ h1 {
     text-align: center;
 }
 
+div.background {
+	border-radius: 25px;
+	margin-right: 100px;
+    margin-left: 100px;
+	background-color: grey;
+}
+
 hr {
 	margin-right: 100px;
 	margin-left: 100px;
@@ -16,25 +23,20 @@ hr {
 
 h2 {
 	font-size: 30 px;
-	border-radius: 25px;
-	background-color: grey;
 	font-family: Georgia;
-    color: white;
-    text-align: center;
-    margin-right: 100px;
-	margin-left: 100px;
+    color: black;
+    text-align: left;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 p {
-	border-radius: 25px;
-	border: 10px solid grey;
-	margin-right: 100px;
-    margin-left: 100px;
-	background-color: grey;
 	font-size: 15 px;
 	font-family: Georgia;
     color: white;
     text-align: left;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 div.category {
