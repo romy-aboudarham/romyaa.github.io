@@ -9,6 +9,22 @@ h1 {
     text-align: center;
 }
 
+hr {
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+h2 {
+	font-size: 30 px;
+	border-radius: 25px;
+	background-color: grey;
+	font-family: Georgia;
+    color: white;
+    text-align: center;
+    margin-right: 100px;
+	margin-left: 100px;
+}
+
 p {
 	border-radius: 25px;
 	border: 10px solid grey;
@@ -26,10 +42,6 @@ div.category {
 	font-family: Georgia;
     color: white;
     text-align: center;
-}
- 
-div.spacing{
-	word-spacing: 20 px;
 }
 
 a:link {
