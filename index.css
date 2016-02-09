@@ -1,32 +1,51 @@
 body {
-    background-color: lightblue;
-    text-align: center;
+     background-image: url("Wood.jpg");
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 40 px;
+	font-family: Georgia;
+    color: black;
+    text-align: center;
+}
+
+p {
+	border-radius: 25px;
+	border: 10px solid grey;
+	margin-right: 100px;
+    margin-left: 100px;
+	background-color: grey;
+	font-size: 15 px;
 	font-family: Georgia;
     color: white;
+    text-align: left;
+}
+
+div.category {
+	font-size: 30 px;
+	font-family: Georgia;
+    color: white;
+    text-align: center;
+}
+ 
+div.spacing{
+	word-spacing: 20 px;
 }
 
 a:link {
-    color: white;
+    color: grey;
+    text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: lightblue;
+    color: black;
 }
 
 /* selected link */
 a:active {
     color: black;
-}
-
-a.nounderline:link  
-{  
- text-decoration:none;  
-}  
+} 
 
 .circle-border {
     border-radius: 50%;
