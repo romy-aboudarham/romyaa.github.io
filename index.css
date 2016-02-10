@@ -39,13 +39,6 @@ p {
     margin-left: 20px;
 }
 
-div.category {
-	font-size: 30 px;
-	font-family: Georgia;
-    color: white;
-    text-align: center;
-}
-
 a:link {
     color: grey;
     text-decoration: none;
@@ -63,7 +56,7 @@ a:active {
 
 .circle-border {
     border-radius: 50%;
-    text-align: center;
+
     color: white;
 }
 
