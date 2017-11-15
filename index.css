@@ -69,11 +69,15 @@ a:hover {
     border-color: black;
 }
 
-.profile {
+.pageImage {
     border-radius: 50%;
     display: block;
     margin: auto;
     -webkit-animation: fadein 2s;
+}
+
+figcaption {
+    position: center;
 }
 
 button{
@@ -90,6 +94,7 @@ button:hover {
     color: black !important;
     border: 1px solid black; 
 }
+
 
 
 
